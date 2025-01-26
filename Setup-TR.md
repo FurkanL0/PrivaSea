@@ -95,3 +95,8 @@ Instructions: 0xf07c3eF23ae7BEb8CD8bA5fF546E35Fd4b332B34 is an example and may d
 ```bash
 mv $HOME/privasea/config/UTC--* $HOME/privasea/config/wallet_keystore
 ```
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
