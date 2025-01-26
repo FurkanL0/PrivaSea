@@ -54,3 +54,15 @@ docker-compose --version
 sudo groupadd docker
 sudo usermod -aG docker $USER
 ```
+
+##  5. İmage'i İndirelim 
+
+```bash
+docker pull privasea/acceleration-node-beta:latest
+```
+
+## 6. Dizin Oluşturalım Ve Dizinin İçine Girelim 
+
+```bash
+mkdir -p ~/privasea/config && cd ~/privasea
+```
