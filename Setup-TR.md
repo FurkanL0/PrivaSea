@@ -16,6 +16,9 @@
 | **Contabo**          | [Link](https://www.dpbolvw.net/click-101330552-12454592)                     | Ucuz / Kredi Kartı / Paypal  |
 | **PQ**      | [Link](https://pq.hosting/?from=627713)                  | Ucuz / Kredi Kartı / Kripto İle Ödeme |
 
+
+## Node Kurulum ; 
+
 #### Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
 ```bash
