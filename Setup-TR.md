@@ -66,3 +66,12 @@ docker pull privasea/acceleration-node-beta:latest
 ```bash
 mkdir -p ~/privasea/config && cd ~/privasea
 ```
+
+## 7. Cüzdan ve Şifre Oluşturma 
+
+- Bu komuttan sonra size kullanmalık şifre isteyecek ilerde lazım olacak kaydedin.
+- Sizde cüzdan bilgileri vericek onlarıda tümüyle kaydediyoruz.
+
+```bash
+docker run --rm -it -v "$HOME/privasea/config:/app/config" privasea/acceleration-node-beta:latest ./node-calc new_keystore
+```
