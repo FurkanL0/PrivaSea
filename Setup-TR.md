@@ -107,7 +107,7 @@ mv $HOME/privasea/config/UTC--* $HOME/privasea/config/wallet_keystore
 
 ## 10 . Başlatalım  : 
 
-- ENTER_YOUR_KEYSTORE_PASSWORD kısmına cüzdan oluştururken koyduğunuz keyi yazın.
+- ENTER_YOUR_KEYSTORE_PASSWORD kısmına cüzdan oluştururken koyduğunuz şifreyi yazın.
 - 
 
 ```bash
