@@ -7,7 +7,7 @@
 |------------------|----------------------------|---------------------------------------|
 | **CPU**          | 4 | 16 |
 | **RAM**          | 4 GB                     | 8 GB                                 |
-| **Storage**      | 100 GB SDD                   | 3100 GB SSD       |
+| **Storage**      | 100 GB SDD                   | 100 GB SSD       |
 | **Network**      | 100 Mbps (1 Gbps+ recommended) | 100 Mbps (1 Gbps+ recommended)        |
 
 
