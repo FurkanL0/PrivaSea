@@ -10,6 +10,11 @@
 | **Storage**      | 100 GB SDD                   | 100 GB SSD       |
 | **Network**      | 100 Mbps (1 Gbps+ recommended) | 100 Mbps (1 Gbps+ recommended)        |
 
+| Server Sağlayıcıları        | Link              | Özellikler |
+|------------------|----------------------------|----------------------------|
+| **NetCUP**          | [Link](https://www.netcup.com/en/?ref=261820) | Ucuz / Kredi Kartı / Paypal |
+| **Contabo**          | [Link](https://www.dpbolvw.net/click-101330552-12454592)                     | Ucuz / Kredi Kartı / Paypal  |
+| **PQ**      | [Link](https://pq.hosting/?from=627713)                  | Ucuz / Kredi Kartı / Kripto İle Ödeme |
 
 #### Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
