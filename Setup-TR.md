@@ -86,7 +86,7 @@ After successful creation of the wallet, the program will display information si
 ```bash
 node address: 0x1111111111111111111111111111111111111111
 # This is the node address you generated, used for linking in the dashboard 
-node filename: keystore:///app/config/UTC--2025-01-06T06-11-07.485797065Z--1111111111111111111111111111111111111111
+node filename: keystore:///app/config/UTC--2025-01-01T01-11-01.415191015Z--1111111111111111111111111111111111111111
 
 Instructions: 0xf07c3eF23ae7BEb8CD8bA5fF546E35Fd4b332B34 is an example and may differ in your case.
 ```
