@@ -96,6 +96,20 @@ Instructions: 0xf07c3eF23ae7BEb8CD8bA5fF546E35Fd4b332B34 is an example and may d
 mv $HOME/privasea/config/UTC--* $HOME/privasea/config/wallet_keystore
 ```
 
+## 9. Dashbaord İşlemleri 
+
+- Dashboard Link : https://deepsea-beta.privasea.ai/privanetixNode
+- Cüzdanınızı bağlayın ardından "You don’t have a Privanetix node yet. Set one up now! > " Set one up now'a tıklayın. 
+- 1-3 Arası bir komisyon yüzdesi ayarlayın ben 1 kullanacağım.
+- Cüzdan bilgilerini kaydetmiştik orada bize adres verdi o adresi yazın. Onaylayın ardından Set up My Node'ye tıklayın.
+
+![image](https://github.com/user-attachments/assets/995f0041-190b-4e31-ba0f-32f73f4f68ef)
+
+## 10. Diğer İşlemler 
+
+- Stake vb. işlemler  bulunuyor bunların detaylarına https://www.privasea.ai/privanetix-node sayfasından ulaşabilirsiniz.
+- Manage my Privanetix node kısmından itibaren bakabilirsiniz - Üst Tarafı tamamladık.
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
