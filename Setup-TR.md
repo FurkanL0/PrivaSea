@@ -90,3 +90,8 @@ node filename: keystore:///app/config/UTC--2025-01-01T01-11-01.415191015Z--11111
 
 Instructions: 0xf07c3eF23ae7BEb8CD8bA5fF546E35Fd4b332B34 is an example and may differ in your case.
 ```
+
+## 8. KeyStore Dosyasını Yeni Dizine Taşıyalım 
+```bash
+mv $HOME/privasea/config/UTC--* $HOME/privasea/config/wallet_keystore
+```
