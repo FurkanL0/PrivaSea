@@ -105,7 +105,15 @@ mv $HOME/privasea/config/UTC--* $HOME/privasea/config/wallet_keystore
 
 ![image](https://github.com/user-attachments/assets/995f0041-190b-4e31-ba0f-32f73f4f68ef)
 
-## 10. Diğer İşlemler 
+## 10 . Başlatalım  : 
+
+- ENTER_YOUR_KEYSTORE_PASSWORD kısmına cüzdan oluştururken koyduğunuz keyi yazın.
+- 
+
+```bash
+KEYSTORE_PASSWORD=ENTER_YOUR_KEYSTORE_PASSWORD && docker run -d --name privanetix-node -v "$HOME/privasea/config:/app/config" -e KEYSTORE_PASSWORD=$KEYSTORE_PASSWORD privasea/acceleration-node-beta:latest
+```
+## 11. Diğer İşlemler 
 
 - Stake vb. işlemler  bulunuyor bunların detaylarına https://www.privasea.ai/privanetix-node sayfasından ulaşabilirsiniz.
 - Manage my Privanetix node kısmından itibaren bakabilirsiniz - Üst Tarafı tamamladık.
