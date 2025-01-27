@@ -118,6 +118,7 @@ KEYSTORE_PASSWORD=ENTER_YOUR_KEYSTORE_PASSWORD && docker run -d --name privaneti
 - Stake etc. There are transactions, you can find the details of these on https://www.privasea.ai/privanetix-node.
 - You can look from Manage my Privanetix node - we have completed the Top Side.
 
+- If the transaction in Stake is giving problems, make the Fee 350000. It can be a problem.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
