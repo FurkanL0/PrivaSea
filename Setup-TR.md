@@ -118,6 +118,8 @@ KEYSTORE_PASSWORD=ENTER_YOUR_KEYSTORE_PASSWORD && docker run -d --name privaneti
 - Stake vb. işlemler  bulunuyor bunların detaylarına https://www.privasea.ai/privanetix-node sayfasından ulaşabilirsiniz.
 - Manage my Privanetix node kısmından itibaren bakabilirsiniz - Üst Tarafı tamamladık.
 
+- Eğer Stake'de işlem sorun veriyorsa Fee'yi 350000 Yapın. Sıkıntı olabiliyor.
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
