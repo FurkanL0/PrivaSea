@@ -10,7 +10,7 @@
 | **Storage**      | 100 GB SDD                   | 100 GB SSD       |
 | **Network**      | 100 Mbps (1 Gbps+ recommended) | 100 Mbps (1 Gbps+ recommended)        |
 
-| Server Provider        | Link              | Özellikler |
+| Server Provider        | Link              | Features |
 |------------------|----------------------------|----------------------------|
 | **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Cheap / Paypal |
 | **Contabo**          | [Link](https://www.dpbolvw.net/click-101330552-12454592)                     | Cheap / Paypal  |
