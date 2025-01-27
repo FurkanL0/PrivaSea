@@ -19,7 +19,7 @@
 
 ## Privanetix Node Setup ; 
 
-#### Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
+#### Run the following command to update and upgrade system packages:
 
 ```bash
 sudo apt update -y && sudo apt upgrade -y
