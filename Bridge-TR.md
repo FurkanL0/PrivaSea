@@ -1,6 +1,6 @@
 ## Bridge 
 
-## 1 - Ücretsiz Ethereum Sepolia Bridge Alalım : 
+## 1 - Ücretsiz Ethereum Sepolia Faucet Alalım : 
 
 #### Link : https://cloud.google.com/application/web3/faucet
 
